@@ -4,6 +4,7 @@ import {
     Routes,
     Route,
   } from "react-router-dom";
+import UserList from "../components/UserList"
 
 function Router() {
     return (
@@ -11,6 +12,7 @@ function Router() {
         <Routes>
             <Route path="/"/>
         </Routes>
+        <UserList/>
         </BrowserRouter>
     )
 }

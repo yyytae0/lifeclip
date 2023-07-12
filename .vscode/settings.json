@@ -1,5 +1,6 @@
 {
     "editor.formatOnSave": true,
-    "notebook.formatOnSave.enabled": false
+    "notebook.formatOnSave.enabled": false,
+    "editor.formatOnPaste": false
 
 }
